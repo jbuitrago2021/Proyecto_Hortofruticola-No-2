@@ -176,7 +176,7 @@ label{
   
 }
 
-tienda h3 {
+.tienda h3 {
   
  text-align:center; 
 }
@@ -184,7 +184,7 @@ tienda h3 {
 .tienda div {
  width: 100%;
  height: 50px;
- backgroud: #008899;
+ background: #008899;
 }
 
 
