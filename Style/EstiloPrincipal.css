@@ -162,7 +162,7 @@ label{
 }
 
 .tienda img {
-  position: relativa;
+  position: relative;
   top: 5px;
   width: 150px;
   height: 100px;
@@ -192,7 +192,7 @@ label{
 /********PIE PAGINA***********/
 
 .espacio{
- position: relativo;
+ position: relative;
  height: 20px
 }
 
