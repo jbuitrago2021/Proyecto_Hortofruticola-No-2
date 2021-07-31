@@ -73,7 +73,7 @@ border:none;
  padding:5px;
  border-radius:3px;
 }
-/**************************/
+/************GALERIA **************/
 
 .galeria {
   width: 100%;
@@ -139,5 +139,17 @@ label{
  display: block;
  cursor: pointer; 
 }
+
+/***************MODULOS*****************/
+
+.tienda {
+ display: grid;
+ grid-template: repeat(3, 300px) / repeat(3, 300px);
+ justify-content: center;
+ grid-gap:16;
+ width: 100%;
+ height: auto;
+}
+
 
 
