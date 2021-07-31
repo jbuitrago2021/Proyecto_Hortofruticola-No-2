@@ -187,11 +187,22 @@ label{
  background: #008899;
 }
 
+
+
 /********PIE PAGINA***********/
 
 .espacio{
  position: relativo;
  height: 20px
+}
+
+.PiePagina {
+  display: flex;
+  justify-content: center;
+  postion: relative;
+  height: 100px;
+  background: #008899;
+  align-content: center; 
 }
 
 
