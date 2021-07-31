@@ -161,5 +161,14 @@ label{
  overflow: Hidden;
 }
 
+.tienda img {
+  position: relativa;
+  top: 5px;
+  width: 150px;
+  height: 100px;
+  border-radius: 15px;
+ 
+}
+
 
 
