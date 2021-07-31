@@ -181,5 +181,11 @@ tienda h3 {
  text-align:center; 
 }
 
+.tienda div {
+ width: 100%;
+ height: 50px;
+ backgroud: #008899;
+}
+
 
 
