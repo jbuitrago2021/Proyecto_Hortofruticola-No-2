@@ -24,4 +24,21 @@ body {
 }
 
 
+.titulo-form-municipio {
+ background: #4E94AB;
+ color:#fff;
+ padding: 8px;
+ text-align:center;
+ font-weight:100%;
+ font-size:30px;
+ border-top-left-radius:7px;
+ border-top-right-radius:7px;
+ border-botton: 10px solid crimson;
+}
+
+
+
+
+
+
 
